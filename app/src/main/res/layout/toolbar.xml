@@ -1,0 +1,16 @@
+<android.support.v7.widget.Toolbar
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/mainColorPrimary"
+    app:contentInsetLeft="15dp"
+    app:contentInsetStart="15dp"
+    android:elevation="19dp"
+    android:titleTextColor="@color/white"
+    app:contentInsetStartWithNavigation="15dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C4172C</color>
+    <color name="colorPrimaryDark">#C4172C</color>
+    <color name="mainColorPrimary">#C4172C</color>
+    <color name="mainColorPrimaryDark">#C4172C</color>
+    <color name="colorAccent">#505050</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="app_background_color">#f7f7f7</color>
+    <color name="badge_color">#FF5757</color>
+    <color name="bold_text_color">#B91A30</color>
+    <color name="little_gray_background">#8CECECEF</color>
+    <color name="gray">#505050</color>
+    <color name="app_hash_pool">#ECECEF</color>
+    <color name="app_snack_bar_true">#34cd27</color>
+</resources>

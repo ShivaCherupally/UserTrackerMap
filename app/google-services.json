@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "15444076835",
+    "firebase_url": "https://hardin-171010.firebaseio.com",
+    "project_id": "hardin-171010",
+    "storage_bucket": "hardin-171010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15444076835:android:47d0ceeca57752de",
+        "android_client_info": {
+          "package_name": "com.maya.wadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15444076835-ju49t6gvcs1sqkm1fa60k1gbn843bl43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTxnAjS3rmsmxBlhr4loH4OrZUSntBEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape
+            android:shape="rectangle">
+
+            <solid
+                android:color="@color/app_hash_pool"/>
+
+            <corners
+                android:radius="6dp"/>
+
+        </shape>
+    </item>
+
+</layer-list>

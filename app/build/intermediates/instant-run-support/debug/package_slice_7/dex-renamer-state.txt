@@ -1,0 +1,4 @@
+#Sat Jan 27 05:18:54 IST 2018
+base.0=F\:\\Task\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

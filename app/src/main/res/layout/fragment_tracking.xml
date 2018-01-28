@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.maya.wadmin.fragments.TrackingFragment">
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:background="@color/app_background_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.google.android.gms.maps.MapView
+                android:id="@+id/mapView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </com.google.android.gms.maps.MapView>
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                app:elevation="5dp"
+                app:backgroundTint="@color/mainColorPrimary"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="25dp"
+                android:src="@drawable/ic_start"
+                android:layout_width="50dp"
+                android:layout_height="50dp" />
+
+
+
+
+        </RelativeLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+
+
+</FrameLayout>
